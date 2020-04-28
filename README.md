@@ -27,5 +27,5 @@
         - tree_for_capston.ipynb : 각 조합에 대한 tree 작성
     3. 3 결론
         - tree.folder : 각 속성의 조합(15가지)별 3가지 class att(당뇨, 이상지질혈증, 고혈압의 유병률)에 대한 트리 => 총 45개의 tree
-        - compare accuracy.xlsx : 각 tree의 
+        - compare accuracy.xlsx : 각 tree의 accuracy 정리
  
