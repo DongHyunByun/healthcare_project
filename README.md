@@ -18,7 +18,7 @@
     1. 1 전처리
         - add_3att.py : class att(고혈압, 당뇨, 이상지질혈증의 유병률(표준화))를 추가
         - delete_null_location.py : 지역코드가 없는 지역을 제외
-        - make_null_average.py : 결측치를 평균값으로 대체
+        - make_null_average.py : 결측치를 평균값으로 대체  
         ![결측치 평균값](https://user-images.githubusercontent.com/50386280/80488073-c3215f80-8998-11ea-9890-bd8481771c46.jpg)
         - sum_all_one(add chs).py : 년도별 공통지역, 공통속성을 찾음
         ![공통구역](https://user-images.githubusercontent.com/50386280/80488315-18f60780-8999-11ea-85c1-499254ec4d2a.jpg)
